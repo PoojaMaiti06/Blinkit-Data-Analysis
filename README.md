@@ -1,7 +1,7 @@
 # Blinkit-Dashboard
 
 ### Dashboard Link 
-https://app.powerbi.com/view?r=eyJrIjoiNjdhYmE0YTMtZDJkYi00MmU5LWEzOWItN2U0NDQ2ZGVhODQ2IiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D
+https://app.powerbi.com/viewr=eyJrIjoiNjdhYmE0YTMtZDJkYi00MmU5LWEzOWItN2U0NDQ2ZGVhODQ2IiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D
 
 
 ## Problem Statement

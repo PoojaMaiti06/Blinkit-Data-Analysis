@@ -50,25 +50,29 @@ These visualizations will cover various aspects, including sales by fat content,
 The dataset for the Blinkit Data Analysis project, comprises 8,523 rows 
 and 12 columns, focusing on sales data analysis. The columns included are Item Fat Content, Item Identifier, Item Type, Outlet Establishment Year, Outlet Identifier, Outlet Location Type, Outlet Size, Outlet Type, Item Visibility, Item Weight, Sales, and Rating. This dataset provides a comprehensive view of various attributes related to items and outlets, enabling detailed analysis.
 
+https://github.com/PoojaMaiti06/Blinkit-Data-Analysis/issues/1#issue-2502001107
+
 ## Data Cleaning / Quality Check
 
 Data cleaning involves identifying and correcting errors or inconsistencies in a dataset to improve its quality and usability.
-
 
 ## Column Quality
 
 Column quality refers to the assessment of the validity, accuracy, and completeness of data within each column of a dataset. It helps identify errors, missing values, and inconsistencies that could impact the reliability of the analysis.
 
+https://github.com/PoojaMaiti06/Blinkit-Data-Analysis/issues/2#issue-2502003925
 
 ## Column Profile
 
 A column profile is a summary of the key characteristics and distribution of data within a specific column of a dataset. It includes statistics such as the number of entries, distinct values, errors, and the frequency of each value, helping to understand the content and structure of the data in that column.
 
+https://github.com/PoojaMaiti06/Blinkit-Data-Analysis/issues/3#issue-2502005410
 
 ## Column Distribution
 
 Column distribution refers to the breakdown of data within a specific column, showing the frequency and proportion of each unique value. It helps in understanding how different values are represented in the dataset, revealing patterns, trends, and outliers.
 
+https://github.com/PoojaMaiti06/Blinkit-Data-Analysis/issues/4#issue-2502007093
 
 ## Standardizing Data
 
@@ -78,6 +82,7 @@ Standardizing data is a crucial step in data preprocessing, ensuring consistency
 1. LF, low fat should be replaced with Low Fat to maintain uniformity in representing lowfat items.
 2. Reg should be replaced with Regular to standardize the representation of regular-fat item.
 
+https://github.com/PoojaMaiti06/Blinkit-Data-Analysis/issues/5#issue-2502008228
 
 ## DAX Calculation
 
@@ -123,31 +128,45 @@ Data visualization is the graphical representation of data, making complex infor
 
 Regular fat items contribute more to total sales ($776.32K) than low-fat items ($425.36K), indicating higher customer preference for regular fat products.
 
+https://github.com/PoojaMaiti06/Blinkit-Data-Analysis/issues/6#issue-2502010335
+
 ### Total Sales by Item Type
 
 "Fruits and Vegetables" and "Snack Foods" are top-selling categories, each generating $0.18M, followed by "Household" and "Frozen Foods."
+
+https://github.com/PoojaMaiti06/Blinkit-Data-Analysis/issues/7#issue-2502011236
 
 ### Fat Content by Outlet for Total Sales
 
 Tier 3 outlets lead in sales for regular fat items ($0.31M), while Tier 1 performs better with low-fat items ($0.22M), suggesting regular fat 
 products are more popular in lower-tier outlets.
 
+https://github.com/PoojaMaiti06/Blinkit-Data-Analysis/issues/8#issue-2502012630
+
 ### Total Sales by Outlet Establishment
 
 Sales peaked in 2018 at $205K but have since stabilized around $130K-$132K, indicating a plateau in performance for newer outlets.
+
+https://github.com/PoojaMaiti06/Blinkit-Data-Analysis/issues/9#issue-2502013903
 
 ### Sales by Outlet Size
 
 Large outlets dominate with $507.90K in sales, followed by medium ($444.79K) and small outlets ($248.99K).
 
+https://github.com/PoojaMaiti06/Blinkit-Data-Analysis/issues/10#issue-2502014920
+
 ### Sales by Outlet Location
+
 Tier 3 locations lead in sales ($472.13K), suggesting outlets in less urbanized or more affordable areas are more profitable.
+
+https://github.com/PoojaMaiti06/Blinkit-Data-Analysis/issues/11#issue-2502016041
 
 ### All Metrics by Outlet Type
 
 Supermarket Type 1 leads in total sales ($787.55K) and the number of items sold (5,577), though it has lower item visibility. Grocery stores, while having 
 lower sales, maintain consistent average sales and ratings.
 
+https://github.com/PoojaMaiti06/Blinkit-Data-Analysis/issues/12#issue-2502016987
 
 ## Conclusion
 
